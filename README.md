@@ -16,7 +16,7 @@ A simple banking system that allows users to create accounts, deposit, withdraw,
 ├── bank.py          # Main business logic
 ├── test_bank.py     # Unit tests using unittest
 ├── README.md        # Project overview and instructions
-├── accounts.csv     # Optional: stores saved accounts
+├── test_accounts.csv     # Optional: stores saved accounts
 
 ## 🛠 Requirements
 
@@ -36,7 +36,7 @@ You should see output like:
 
 ........
 ----------------------------------------------------------------------
-Ran 8 tests in 0.000s
+Ran 12 tests in 0.000s
 
 OK
 ```
